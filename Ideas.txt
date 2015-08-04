@@ -38,3 +38,24 @@ Screen as object
 ->distance
 ->illumination?
 
+Interface
+---------
+overall...
+-"Toylike": mess with variables and see what happens - numbers are available on request
+-"Check": scenario is presented, user guesses/calculates response, overlaid on situation
+	- e.g. "angular position of 3rd-order maximum under THESE circumstances
+
+elements...
+-user-draggable screen position
+
+switches
+-circular and flat screen
+-YDS or DG
+
+buttons
+-'add' colour/wavelength (within range UV - IR)
+
+sliders
+-colour selector (spectral & wavelength)
+-spacing (d & lines per mm)
+
