@@ -1,0 +1,40 @@
+Ideas
+
+Variables
+---------
+
+INPUT
+
+n = number of slits (2 or d.g.) -> expand to faithfully calculate for n sources later on
+d = slit spacing
+
+wavelength1
+wavelength2
+
+screen shape, size
+
+OUTPUT
+
+path difference between adjacent slits
+interference condition (brightness)
+angular positions of bright and dark spots
+
+Structures
+-------------
+
+Diff. pattern as object
+->array of angular positions
+-> colours present
+-> additive colour
+
+Experiment as object
+->grating
+->wavelength
+->DiffPattern
+->Screen
+
+Screen as object
+->shape
+->distance
+->illumination?
+
